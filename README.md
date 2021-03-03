@@ -1,2 +1,2 @@
 # massdm-tool
-MassDM Tool By corrupt
+MassDM Tool By faneto#1337
