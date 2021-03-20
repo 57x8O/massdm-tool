@@ -1,2 +1,2 @@
 # massdm-tool
-MassDM Tool By faneto#1337
+MassDM Tool By rockout#1337
